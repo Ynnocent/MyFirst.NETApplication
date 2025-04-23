@@ -1,0 +1,14 @@
+C:\Users\Ynno\Desktop\Desktop\School\CSE325Spring25\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe.config
+C:\Users\Ynno\Desktop\Desktop\School\CSE325Spring25\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe
+C:\Users\Ynno\Desktop\Desktop\School\CSE325Spring25\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.pdb
+C:\Users\Ynno\Desktop\Desktop\School\CSE325Spring25\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\Ynno\Desktop\Desktop\School\CSE325Spring25\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ynno\Desktop\Desktop\School\CSE325Spring25\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.exe
+C:\Users\Ynno\Desktop\Desktop\School\CSE325Spring25\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.pdb
+C:\Users\Ynno\Desktop\Desktop\School\CSE325Spring25\MyFirstConsoleApplication\MyFirst.NETApplication\bin\Debug\MyFirstConsoleApplication.exe.config
+C:\Users\Ynno\Desktop\Desktop\School\CSE325Spring25\MyFirstConsoleApplication\MyFirst.NETApplication\bin\Debug\MyFirstConsoleApplication.exe
+C:\Users\Ynno\Desktop\Desktop\School\CSE325Spring25\MyFirstConsoleApplication\MyFirst.NETApplication\bin\Debug\MyFirstConsoleApplication.pdb
+C:\Users\Ynno\Desktop\Desktop\School\CSE325Spring25\MyFirstConsoleApplication\MyFirst.NETApplication\obj\Debug\MyFirstConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\Ynno\Desktop\Desktop\School\CSE325Spring25\MyFirstConsoleApplication\MyFirst.NETApplication\obj\Debug\MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ynno\Desktop\Desktop\School\CSE325Spring25\MyFirstConsoleApplication\MyFirst.NETApplication\obj\Debug\MyFirstConsoleApplication.exe
+C:\Users\Ynno\Desktop\Desktop\School\CSE325Spring25\MyFirstConsoleApplication\MyFirst.NETApplication\obj\Debug\MyFirstConsoleApplication.pdb
